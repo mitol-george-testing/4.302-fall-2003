@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "08ceb10b-9edc-6a80-ae10-3acf9b2ce359",
+      "794958b3-95a0-5e6f-1d80-6e255d21919a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "BSAD Foundations in the Visual Arts",
+  "course_description": "This class offers a foundation in the visual art practice and its critical analysis for beginning architecture students. Emphasis is on long-range artistic development and its analogies to architectural thinking and practice. Students will learn to communicate ideas and experiences through various two-dimensional, and three-dimensional, and time-based media, including installations, performance and video. Lectures, visiting artist presentations, field trips, and readings supplement studio practice.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.302",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
